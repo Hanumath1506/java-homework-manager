@@ -1,9 +1,11 @@
 # java-homework-manager
-A Java-based Homework Manager application for tracking assignments, due dates, and completion status.
 
-📖 Overview
+# Java Homework Manager
+A Java-based Homework Manager to track assignments and due dates using OOP design.
 
-The Homework Manager is a Java-based application designed to help students organize and track homework assignments. It allows users to add assignments, store due dates, and manage homework efficiently using object-oriented programming principles.
+
+
+
 
 
 🎯 Features
@@ -17,8 +19,12 @@ The Homework Manager is a Java-based application designed to help students organ
 - Language: Java
 - Paradigm: Object-Oriented Programming (OOP)
 
-🧠 Program Design
-- Assignment — Represents a single homework assignment
-- Date — Stores and manages due date information
-- HomeworkManager — Manages a collection of assignments
-- Main — Driver class that runs the application
+
+🧠 Files
+- `Main.java` – runs the program
+- `HomeworkManager.java` – manages assignments
+
+## How to Run
+Compile:
+```bash
+javac src/*.java
